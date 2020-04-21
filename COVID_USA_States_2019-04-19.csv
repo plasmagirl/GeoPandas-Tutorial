@@ -1,0 +1,59 @@
+Province_State,Confirmed Count,Death Count,Country,State Code
+Alabama,4888,157,US,AL
+Alaska,319,9,US,AK
+American Samoa,0,0,US,AS
+Arizona,4933,184,US,AZ
+Arkansas,1781,39,US,AR
+California,31431,1177,US,CA
+Colorado,9730,420,US,CO
+Connecticut,17962,1127,US,CT
+Delaware,2538,67,US,DE
+Diamond Princess,49,0,US,Diamond Princess
+District of Columbia,2793,96,US,DC
+Florida,26314,774,US,FL
+Georgia,18301,687,US,GA
+Grand Princess,103,0,US,Grand Princess
+Guam,136,5,US,GU
+Hawaii,580,10,US,HI
+Idaho,1668,44,US,ID
+Illinois,30357,1290,US,IL
+Indiana,11211,562,US,IN
+Iowa,2902,75,US,IA
+Kansas,1905,93,US,KS
+Kentucky,2960,146,US,KY
+Louisiana,23928,1296,US,LA
+Maine,867,34,US,ME
+Maryland,12847,461,US,MD
+Massachusetts,38077,1706,US,MA
+Michigan,31424,2391,US,MI
+Minnesota,2356,134,US,MN
+Mississippi,4274,159,US,MS
+Missouri,5743,199,US,MO
+Montana,433,10,US,MT
+Nebraska,1474,28,US,NE
+Nevada,3728,158,US,NV
+New Hampshire,1390,38,US,NH
+New Jersey,85301,4362,US,NJ
+New Mexico,1845,55,US,NM
+New York,247815,18298,US,NY
+North Carolina,6601,200,US,NC
+North Dakota,585,9,US,ND
+Northern Mariana Islands,14,2,US,MP
+Ohio,11602,471,US,OH
+Oklahoma,2567,140,US,OK
+Oregon,1910,74,US,OR
+Pennsylvania,32902,1276,US,PA
+Puerto Rico,1213,62,US,PR
+Rhode Island,4706,150,US,RI
+South Carolina,4377,120,US,SC
+South Dakota,1635,7,US,SD
+Tennessee,7070,148,US,TN
+Texas,19260,490,US,TX
+Utah,3069,27,US,UT
+Vermont,813,38,US,VT
+Virgin Islands,53,3,US,VI
+Virginia,8542,277,US,VA
+Washington,12255,636,US,WA
+West Virginia,890,18,US,WV
+Wisconsin,4346,220,US,WI
+Wyoming,313,2,US,WY
